@@ -1,0 +1,8 @@
+log
+.git
+.env
+app
+deploy
+docs
+.golangci.yaml
+config
